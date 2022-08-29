@@ -1,3 +1,5 @@
+https://scott-gauthier.github.io/03-Challenge/
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
